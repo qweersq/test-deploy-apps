@@ -7,6 +7,6 @@ class PageOneController extends Controller
 {
     public function index()
     {
-        return view('PageOne');
+        return view('pageone');
     }
 }
